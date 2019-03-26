@@ -5,7 +5,7 @@ Created on Tue Mar 26 15:20:54 2019
 @author: nadia
 """
 #searching for the smallest monthly payment such that we can pay off 
-#the entire balance within a year using bisection search
+#the entire balance within a year; using bisection search
 
 balance = 304070
 annualInterestRate = 0.2
