@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 26 14:35:32 2019
 
-@author: gecap
+@author: nadia
 """
 #counting vowels in a string
 
