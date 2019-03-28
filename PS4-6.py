@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 28 14:35:29 2019
 
-@author: gecap
+@author: nadia
 """
 
 def playGame(wordList):
